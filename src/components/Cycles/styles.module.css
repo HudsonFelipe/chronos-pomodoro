@@ -23,9 +23,9 @@
 }
 
 .ShortBreakTime {
-  brackground: var(--primary);
+  background: var(--primary);
 }
 
 .longBreakTime {
-  brackground: var(--info);
+  background: var(--info);
 }
